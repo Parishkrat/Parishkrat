@@ -17,7 +17,25 @@ Building scalable backend systems, real-time applications, and payment infrastru
 - 🎯 Interested in Backend Engineer, Platform Engineer, and Distributed Systems roles
 
 ---
+## 🌐 Live Projects
 
+### 🔖 Bookmark Manager SaaS
+A full-stack bookmark management platform with secure authentication and modern UI.
+
+🚀 Live Demo:
+https://bookmark-ad4inoss7-parishkrat-s-projects.vercel.app
+
+### Features
+- User Authentication (JWT)
+- Bookmark CRUD Operations
+- Protected Routes
+- Search & Filtering
+- Responsive UI
+- RESTful APIs
+- MongoDB Database
+
+### Tech Stack
+Node.js • Express.js • MongoDB • JWT • React • Vercel
 ## 🛠️ Tech Stack
 
 ### Languages
