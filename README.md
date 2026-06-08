@@ -23,7 +23,7 @@ Building scalable backend systems, real-time applications, and payment infrastru
 A full-stack bookmark management platform with secure authentication and modern UI.
 
 🚀 Live Demo:
-https://bookmark-ad4inoss7-parishkrat-s-projects.vercel.app
+https://bookmark-sand-five.vercel.app/
 
 ### Features
 - User Authentication (JWT)
